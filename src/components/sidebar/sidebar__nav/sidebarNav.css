@@ -1,0 +1,14 @@
+.header{
+    border-right: 1px solid #ededed;
+}
+.messenger__nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.nav__logo{}
+.nav__btns{
+    display: flex;
+    column-gap: 10px;
+}

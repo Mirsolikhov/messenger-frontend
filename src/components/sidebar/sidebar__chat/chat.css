@@ -1,0 +1,31 @@
+.sidebar__chat{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    border-right: 1px solid #ebebeb;
+}
+.chat__container{}
+.chat__container h1{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    margin-bottom: 20px;
+    padding: 10px 0 10px 10px;
+    border-radius: 5px;
+}
+.chat__container h1:hover,.chat__box:hover{
+    background-color: #ebebeb;
+}
+.chat__box{
+    display: flex;
+    align-items: center;
+    column-gap: 30px;
+    padding: 10px 0 10px 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.chat__logo{}
+.chat__info{
+
+}
+.info__name{}
+.info__text{}

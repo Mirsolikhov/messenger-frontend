@@ -1,0 +1,16 @@
+:root{
+    --textColor: #1a1b2f;
+    --iconColor: #3063f7;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: var(--textColor);
+}
+
+.container {
+    padding: 0 20px;
+}
+svg{
+    fill: var(--iconColor);
+}

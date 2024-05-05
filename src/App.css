@@ -1,0 +1,12 @@
+.App{
+    display: grid;
+    padding: 20px 20px;
+    background-color: #F5F5F5;
+}
+.app__body{
+    display: flex;
+    background-color: #FFFFFF;
+    padding: 20px 0 0;
+    border-radius: 10px;
+    box-shadow: -1px 4px 20px -6px  rgba(0, 0, 0, 0.75);
+}
